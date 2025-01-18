@@ -1,5 +1,5 @@
 <p align="center">
-  <div style="width: 1920px; height: 300px; overflow: hidden; position: relative;">
+  <div style="width: 1920px; height: 150px; overflow: hidden; position: relative;">
     <img src="https://static.wikia.nocookie.net/gtawiki/images/6/66/HeistMonthWeek4-GTAOe-GTA%24500KBonusAdvert.png/revision/latest?cb=20211126070805" 
          style="position: absolute; top: -100px; left: 0; width: auto; height: 500px;">
   </div>
