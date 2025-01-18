@@ -1,3 +1,4 @@
+# Bondrix Framework
 <p align="center">
   <div style="width: 1920px; height: 150px; overflow: hidden; position: relative;">
     <img src="https://static.wikia.nocookie.net/gtawiki/images/6/66/HeistMonthWeek4-GTAOe-GTA%24500KBonusAdvert.png/revision/latest?cb=20211126070805" 
@@ -13,3 +14,4 @@ Bondrix is an open-source, lightweight, and modular framework designed for FiveM
 - **Lightweight**: Built to ensure minimal overhead, allowing your server to perform at its best.
 - **Customizability**: Easily extend and modify the framework to fit your server's unique needs.
 - **Open Source**: Fully open-source, encouraging community collaboration and contributions.
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/safePkGbNB)
