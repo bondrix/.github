@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1920" height="1080" src="https://static.wikia.nocookie.net/gtawiki/images/6/66/HeistMonthWeek4-GTAOe-GTA%24500KBonusAdvert.png/revision/latest?cb=20211126070805">
+  <img width="1920" height="300" src="https://static.wikia.nocookie.net/gtawiki/images/6/66/HeistMonthWeek4-GTAOe-GTA%24500KBonusAdvert.png/revision/latest?cb=20211126070805">
 </p>
 
 # About
