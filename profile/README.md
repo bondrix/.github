@@ -1,9 +1,6 @@
 # Bondrix Framework
 <p align="center">
-  <div style="width: 1920px; height: 150px; overflow: hidden; position: relative;">
-    <img src="https://github.com/bondrix/.github/blob/main/profile/banner.png" 
-         style="position: absolute; top: -100px; left: 0; width: auto; height: 500px;">
-  </div>
+  <img src="https://github.com/bondrix/.github/blob/main/profile/banner.png">
 </p>
 
 # About
