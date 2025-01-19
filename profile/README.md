@@ -7,7 +7,7 @@
 </p>
 
 # About
-Bondrix is an open-source, lightweight, and modular framework designed for FiveM. It provides a foundation for building custom game servers with high performance and flexibility.
+Bondrix is an open-source, lightweight, and modular framework designed for [FiveM](https://fivem.net/). It provides a foundation for building custom game servers with high performance and flexibility.
 
 ## Features
 - **Modular Design**: Integrate only the features you need to keep your server lightweight and efficient.
